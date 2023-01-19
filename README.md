@@ -2,7 +2,6 @@
  <h2>⚡Technologies</h2>
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,vscode,figma,docker" />
     <img src="https://skillicons.dev/icons?i=js,react,html,css,github,nodejs,vscode,figma,docker,aws,bootstrap,webpack,express" />
   </a>
 </p>
