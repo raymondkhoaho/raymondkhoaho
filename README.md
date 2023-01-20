@@ -5,13 +5,9 @@ Hello World! 👋 :earth_americas:
 I'm Raymond, a Software Engineer in Orange County, CA!
 </h3>
 
+I'm a Software Engineer who loves new challenges. I enjoy learning new things and advancing my coding knowledge. I really love knowing that there's always more to learn and that the field is constantly advancing. Looking forward to keep myself busy by always being challenged!
 
-
-
-
-<p>
- <img src="https://github-readme-stats.vercel.app/api?username=raymondkhoaho&count_private=true&show_icons=true&include_all_commits=true">
- </p>
+![alt text](https://github-readme-stats.vercel.app/api?username=raymondkhoaho&count_private=true&show_icons=true&include_all_commits=true)
 
 <h2>⚡Technologies</h2>
 
@@ -27,15 +23,16 @@ I'm Raymond, a Software Engineer in Orange County, CA!
 ![alt text](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white "NodeJS")
 ![alt text](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")
 ![alt text](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white "Webpack")
+![alt text](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white "Babel")
 ![alt text](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white "ExpressJS")
 ![alt text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")
 ![alt text](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white "NPM")
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondkhoaho&layout=compact">
-</p>
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondkhoaho&layout=compact)
+
 
 <h2>🤝 Let's Connect</h2> 
+
 <p>
   <a href="https://www.linkedin.com/in/raymondkhoaho/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -43,7 +40,6 @@ I'm Raymond, a Software Engineer in Orange County, CA!
   <a href = "mailto: raymondkhoaho@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
 </p>
 
 
