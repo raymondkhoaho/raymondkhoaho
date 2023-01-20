@@ -6,7 +6,7 @@
  
 <h2>⚡Technologies</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,github,nodejs,vscode,figma,docker,aws,bootstrap,webpack,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,github,nodejs,vscode,figma,docker,aws,bootstrap,webpack,express,postgres" />
 </p>
 
 <p>
@@ -16,9 +16,15 @@
 <h2>🤝 Let's Connect</h2> 
 <p>
   <a href="https://www.linkedin.com/in/raymondkhoaho/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href = "mailto: raymondkhoaho@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
 </p>
+
+
 <!--
 **raymondkhoaho/raymondkhoaho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
