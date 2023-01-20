@@ -5,7 +5,7 @@ Hello World! 👋 :earth_americas:
 I'm Raymond, a Software Engineer in Orange County, CA!
 </h3>
 
-I'm a Software Engineer who loves new challenges. I enjoy learning new things and advancing my coding knowledge. I really love knowing that there's always more to learn and that the field is constantly advancing. Looking forward to keep myself busy by always being challenged!
+I'm a Software Engineer who loves new challenges. I enjoy learning new things and advancing my coding knowledge. I really love knowing that there's always more to learn and that the field is constantly advancing. Looking forward to keeping myself busy and always being challenged!
 
 ![alt text](https://github-readme-stats.vercel.app/api?username=raymondkhoaho&count_private=true&show_icons=true&include_all_commits=true)
 
