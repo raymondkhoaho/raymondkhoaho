@@ -1,12 +1,17 @@
 ### Hi there 👋
+
+<p>
+ <img src="https://github-readme-stats.vercel.app/api?username=raymondkhoaho&count_private=true&show_icons=true&include_all_commits=true">
+ </p>
+ 
 <h2>⚡Technologies</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=js,react,html,css,github,nodejs,vscode,figma,docker,aws,bootstrap,webpack,express" />
 </p>
+
 <p>
- <img src="https://github-readme-stats.vercel.app/api?username=raymondkhoaho&count_private=true&show_icons=true&include_all_commits=true">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondkhoaho&layout=compact)](https://github.com/raymondkhoaho/github-readme-stats)
- </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondkhoaho&layout=compact">
+</p>
 
 <h2>🤝 Let's Connect</h2> 
 <p>
